@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+#### Functions ####
 
 ## This function created a list containing a function to 
 ## 1. Set the value of the matrix
@@ -79,3 +78,4 @@ cacheSolve <- function(x, ...) {
   # cacheSolve ruturns the inverse of the matrix
   inv
 }
+
